@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
+   "homepage": "https://kirti276.github.io/Chef_claude4",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
